@@ -1,6 +1,4 @@
-.love{
-    background-color: white;
-}
+
 .new-style{
     float: left;
 }
@@ -22,6 +20,43 @@
     padding: 10px 10px;
     border: 0;
     border-radius: 5px;
-    text-align: left;
+    text-align: left;  
+}
+.hair-fall{
+    float:left;
+    margin-bottom: 10px; 
+}
+.old{
+    text-align: right;
+    margin-top: 400px;
     
+}
+.new-hair{
+    text-decoration: solid;
+    font-weight: 700;
+    font-size: 50px;
+    margin: auto;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+}
+.old-new{
+  align-items: center;
+  padding: 10px 10px;
+}
+.habiba{
+    margin-top: 300px;
+}
+.mira{
+    display: flex;
+    gap: 100px;
+    text-align: center;
+    border-radius: 5px;
+}
+.joti{
+    text-decoration: solid;
+    text-align: center;
+    font-weight: 500;
+    font-size: 30px;
+    margin-top: 15px;
 }
