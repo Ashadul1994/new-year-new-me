@@ -1,0 +1,27 @@
+.love{
+    background-color: white;
+}
+.new-style{
+    float: left;
+}
+.new{
+    text-align: right;
+}
+
+.style{
+    text-decoration: solid;
+    font-weight: 700;
+    font-size: 50px;
+    margin: auto;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.deep-style{
+    background-color: rgb(255, 94, 0);
+    font-size: 25px;
+    padding: 10px 10px;
+    border: 0;
+    border-radius: 5px;
+    text-align: left;
+    
+}
