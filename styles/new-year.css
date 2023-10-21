@@ -38,10 +38,8 @@
     margin: auto;
     padding: 20px;
     font-family: 'Times New Roman', Times, serif;
-    align-items: center;
 }
 .old-new{
-  align-items: center;
   padding: 10px 10px;
 }
 .habiba{
@@ -49,7 +47,7 @@
 }
 .mira{
     display: flex;
-    gap: 100px;
+    gap: 215px;
     text-align: center;
     border-radius: 5px;
 }
@@ -59,4 +57,18 @@
     font-weight: 500;
     font-size: 30px;
     margin-top: 15px;
+}
+.mother{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 19px;
+}
+.father{
+    position: absolute;
+    top: 50%;
+    left: 33%;
+    color: white;
+    padding: 20px 20px;
+    transform: translate(-50% -50%);
 }
