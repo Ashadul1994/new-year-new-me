@@ -72,3 +72,31 @@
     padding: 20px 20px;
     transform: translate(-50% -50%);
 }
+.book{
+    display: flex;
+    gap: 110px;
+    background-color: black;
+    padding: 130px 200px;
+}
+.bangla-book{
+    color: azure;
+    font-weight: 700;
+    font-size: 70px;
+}
+.english-book{
+    color: azure;
+}
+.math{
+    color: azure;
+}
+.ict{
+    color: azure;
+}
+.gre{
+    color: orange;
+    margin-top: 10px;
+    font-size: 25px;
+}
+.international{
+    color: azure;
+}
